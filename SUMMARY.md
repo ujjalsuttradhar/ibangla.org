@@ -1,8 +1,8 @@
 # Summary
 
 * [অবজেক্টিভ-সি ব্যাসিক](#)
-   * [প্রাথমিক ধারনা এবং Xcode](sections/1/chapters/1/1.md)
-   * [Objective-C এর ভিতরে আমাদের প্রিয় C](sections/1/chapters/1/2.md)
+   * [প্রাথমিক ধারনা এবং Xcode](sections/1/chapters/1.md)
+   * [Objective-C এর ভিতরে আমাদের প্রিয় C](sections/1/chapters/2.md)
    * [ফাংশন ও এর ব্যবহার](#)
    * [ক্লাস ও অবজেক্ট](#)
    * [প্রোপার্টি ও এর অ্যাট্রিবিউটের ব্যবহার](#)
